@@ -1,0 +1,4 @@
+CPU Vector Summation
+Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz
+OpenCL 2.0 (Build 37)
+23975 microsecs

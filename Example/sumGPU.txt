@@ -1,0 +1,4 @@
+GPU Vector Summation
+GeForce GTX 1080 Ti
+OpenCL 1.2 CUDA
+306 microsecs

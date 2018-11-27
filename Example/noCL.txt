@@ -1,0 +1,2 @@
+NoCL Vector Summation
+16220 microsecs
